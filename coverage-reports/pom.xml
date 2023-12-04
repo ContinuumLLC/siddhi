@@ -22,7 +22,7 @@
     <parent>
         <groupId>io.siddhi</groupId>
         <artifactId>siddhi</artifactId>
-        <version>5.1.26</version>
+        <version>5.1.26-HF</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
